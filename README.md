@@ -39,7 +39,7 @@ This project generates social media captions using AI based on user input. It ex
 **Tech Stack**  
 - JavaScript  
 - HTML/CSS  
-- API integration (OpenAI or similar)
+- API integration
 
 **Key Features**  
 - User input -> AI-generated captions  
