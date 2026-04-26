@@ -13,7 +13,7 @@ I’m a soon-to-be Digital Media graduate from UCF with experience in digital ma
 BookNook is a web app that allows users to discover, organize, and share books. Users can browse content, create collections, and interact through comments.
 
 **Tech Stack**  
-- React  
+- HTML  
 - JavaScript  
 - CSS
   
